@@ -8,28 +8,29 @@
 
 - XCode & Command-line tools (GCC etc.)
 
-### Automagically (through [shell scripts]())
+### Automagically (through [shell scripts](https://github.com/voronianski/setup-osx-work-station/blob/master/bootstrap.sh))
 
 ```bash
 git clone git@github.com:voronianski/setup-osx-work-station.git
 bash /setup-osx-work-station/bootstrap.sh
 ```
 
-- [x] homebrew
-- [x] homebrew-cask
-- [x] iterm2
-- [x] zsh (+ oh-my-zsh)
-- [x] git
-- [x] tj/git-extras
-- [x] sublime text 3
-- [ ] node.js
-- [ ] mongodb
-- [ ] common aliases
-- [ ] virtual box
-- [ ] vagrant
-- [ ] dropbox
-- [ ] browsers (chrome, chrome canary, firefox)
-- [ ] misc (spotify, pocket, telegram, vlc, adium)
+- [x] [homebrew](http://brew.sh)
+- [x] [homebrew-cask](https://caskroom.github.io)
+- [x] [iterm2](https://www.iterm2.com)
+- [x] [zsh](http://www.zsh.org)
+- [x] [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [x] [git](https://git-scm.com)
+- [x] [tj/git-extras](https://github.com/tj/git-extras)
+- [x] [sublime text 3](https://www.sublimetext.com/3)
+- [x] [node.js](https://nodejs.org)
+- [x] [mongodb](https://www.mongodb.org)
+- [x] [virtualbox](https://www.virtualbox.org)
+- [x] [vagrant](https://www.vagrantup.com)
+
+- [x] browsers (chrome, chrome canary, firefox)
+- [x] misc (spotify, dropbox, telegram, skype, vlc, adium, etc.)
+- [x] commonly used aliases
 
 ### Sublime Text 3
 

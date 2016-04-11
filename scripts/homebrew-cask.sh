@@ -1,4 +1,4 @@
-# https://caskroom.github.io/
+# https://caskroom.github.io
 brew cask
 
 # more applications

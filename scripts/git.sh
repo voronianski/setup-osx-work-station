@@ -1,4 +1,4 @@
-# https://git-scm.com/
+# https://git-scm.com
 brew install git
 
 git config --global user.name "Dmitri Voronianski"
