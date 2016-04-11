@@ -17,15 +17,13 @@ bash /setup-osx-work-station/bootstrap.sh
 
 - [x] homebrew
 - [x] homebrew-cask
-- [ ] sublime text 3
-- [ ] iterm2
+- [x] iterm2
+- [x] zsh (+ oh-my-zsh)
+- [x] git
+- [x] tj/git-extras
+- [x] sublime text 3
 - [ ] node.js
-- [ ] git
-- [ ] tj/git-extras
 - [ ] mongodb
-- [ ] zsh
-- [ ] oh-my-zsh
-- [ ] powerline fonts
 - [ ] common aliases
 - [ ] virtual box
 - [ ] vagrant
