@@ -136,7 +136,7 @@ fi
 
 By default, word jumps (`options + →` or `options + ←`) do not work. Tomake them work go to `iTerm -> Preferences -> Keys` and add following shortcuts:
 
-_Option + right_
+- Option + right
 
 ```
 ⌥→
@@ -144,7 +144,7 @@ Send Escape Sequence
 f
 ```
 
-_Option + left_
+- Option + left
 
 ```
 ⌥←
