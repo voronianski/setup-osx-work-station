@@ -132,6 +132,28 @@ else
 fi
 ```
 
+### iTerm 2
+
+##### Enable word jumps
+
+By default, word jumps (`options + →` or `options + ←`) do not work. Tomake them work go to `iTerm -> Preferences -> Keys` and add following shortcuts:
+
+**Option + right**
+
+```
+⌥→
+Send Escape Sequence
+f
+```
+
+**Option + left**
+
+```
+⌥←
+Send Escape Sequence
+b
+```
+
 ---
 
 **MIT Licensed**
