@@ -58,7 +58,7 @@ List of static configs for several apps.
 }
 ```
 
-##### List of Sublime packages
+##### List of packages
 
 ```json
 {
