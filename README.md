@@ -35,11 +35,9 @@ bash /setup-osx-work-station/bootstrap.sh
 
 ## Configs
 
-List of static configs for several apps.
-
 ### Sublime Text 3
 
-##### User Settings
+##### User settings
 
 ```json
 {
