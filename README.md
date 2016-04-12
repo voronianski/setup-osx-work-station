@@ -41,6 +41,10 @@ List of static configs for several apps.
 
 ### iTerm 2
 
+## Enjoy!
+
+<img src="https://media.giphy.com/media/mYtiMk3wqzNwQ/giphy.gif" />
+
 ---
 
 **MIT Licensed**
