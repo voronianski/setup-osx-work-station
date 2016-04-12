@@ -2,7 +2,7 @@
 
 > List of configurations and tools that need to be added/installed in order to develop on the OS X machine with comfort (VERY OPIONATED).
 
-[<img src="https://media.giphy.com/media/X9Kh1LsT5FAUU/giphy.gif" src="200" />](https://github.com/voronianski/setup-osx-work-station#fork-destination-box)
+[<img src="https://media.giphy.com/media/X9Kh1LsT5FAUU/giphy.gif" width="200" />](https://github.com/voronianski/setup-osx-work-station#fork-destination-box)
 
 ## Usage
 
