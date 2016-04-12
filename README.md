@@ -39,7 +39,63 @@ List of static configs for several apps.
 
 ### Sublime Text 3
 
-### iTerm 2
+##### User Settings
+
+```json
+{
+    "bold_folder_labels": true,
+    "caret_style": "smooth",
+    "color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+    "draw_white_space": "all",
+    "el_capitan_sidebar_blue_folders": false,
+    "fade_fold_buttons": false,
+    "font_face": "Inconsolata",
+    "font_size": 15.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "theme": "El Capitan.sublime-theme",
+    "trim_trailing_white_space_on_save": true
+}
+```
+
+##### List of Sublime packages
+
+```json
+{
+    "bootstrapped": true,
+    "installed_packages":
+    [
+        "Babel",
+        "Babel Snippets",
+        "Better CoffeeScript",
+        "CSS Media Query Snippets",
+        "CSS Snippets",
+        "EditorConfig",
+        "EJS",
+        "Elixir",
+        "Elm Language Support",
+        "Haml",
+        "HTML5",
+        "Jade",
+        "JavaScript Console",
+        "Jinja2",
+        "LESS",
+        "MarkdownEditing",
+        "Mocha Snippets",
+        "Oceanic Next Color Scheme",
+        "Package Control",
+        "PackageDev",
+        "Rust",
+        "SCSS",
+        "SFTP",
+        "Stylus",
+        "SublimeLinter",
+        "SublimeLinter-contrib-eslint",
+        "Theme - El Capitan",
+        "TOML"
+    ]
+}
+```
 
 ---
 
