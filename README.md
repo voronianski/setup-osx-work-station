@@ -2,11 +2,13 @@
 
 > List of configurations and tools that need to be added/installed in order to develop on the workstation with comfort (VERY OPIONATED).
 
+[<img src="https://media.giphy.com/media/X9Kh1LsT5FAUU/giphy.gif" />](https://github.com/voronianski/setup-osx-work-station#fork-destination-box)
+
 ## Usage
 
 ### Manually 
 
-- XCode & Command-line tools (GCC etc.)
+Before running the shell script please make sure that you have **XCode command-line tools (GCC etc.)** installed on your machine.
 
 ### Automagically (through [shell scripts](https://github.com/voronianski/setup-osx-work-station/blob/master/bootstrap.sh))
 
@@ -25,12 +27,15 @@ bash /setup-osx-work-station/bootstrap.sh
 - [x] [sublime text 3](https://www.sublimetext.com/3)
 - [x] [node.js](https://nodejs.org)
 - [x] [mongodb](https://www.mongodb.org)
-- [x] [virtualbox](https://www.virtualbox.org)
 - [x] [vagrant](https://www.vagrantup.com)
-
+- [x] [virtualbox](https://www.virtualbox.org)
 - [x] browsers (chrome, chrome canary, firefox)
 - [x] misc (spotify, dropbox, telegram, skype, vlc, adium, etc.)
 - [x] commonly used aliases
+
+## Configs
+
+List of static configs for several apps.
 
 ### Sublime Text 3
 
