@@ -31,7 +31,7 @@ bash /setup-osx-work-station/bootstrap.sh
 - [x] [virtualbox](https://www.virtualbox.org)
 - [x] browsers (chrome, chrome canary, firefox)
 - [x] misc (spotify, dropbox, telegram, skype, vlc, adium, etc.)
-- [x] commonly used aliases
+- [x] [commonly used aliases](https://github.com/voronianski/setup-osx-work-station/blob/master/scripts/aliases.sh#L2-L13)
 
 ## Configs
 
