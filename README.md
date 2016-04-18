@@ -8,7 +8,7 @@
 
 ### Manually 
 
-Before running the shell script please make sure that you have **XCode command-line tools (GCC etc.)** installed on your machine.
+Before running the shell script please make sure that you have **[XCode command-line tools (GCC etc.)](https://developer.apple.com/downloads)** installed on your machine.
 
 ### Automagically (through [shell scripts](https://github.com/voronianski/setup-osx-work-station/blob/master/bootstrap.sh))
 
