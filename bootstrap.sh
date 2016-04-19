@@ -10,4 +10,6 @@ bash ${DIR}/scripts/nodejs.sh
 bash ${DIR}/scripts/mongodb.sh
 bash ${DIR}/scripts/virtualization.sh
 bash ${DIR}/scripts/aliases.sh
+bash ${DIR}/scripts/browsers.sh
 bash ${DIR}/scripts/misc.sh
+bash ${DIR}/scripts/zsh.sh
