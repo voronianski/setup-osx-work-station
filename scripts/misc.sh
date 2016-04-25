@@ -17,3 +17,6 @@ brew cask install dropbox
 
 # https://www.skype.com
 brew cask install skype
+
+# http://www.cockos.com/licecap
+brew cask install licecap
