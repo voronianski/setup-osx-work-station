@@ -4,6 +4,9 @@ brew cask install spotify
 # https://desktop.telegram.org
 brew cask install telegram
 
+# https://www.messenger.com
+brew cask install caprine
+
 # https://adium.im (irc client, etc.)
 brew cask install adium
 
