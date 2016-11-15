@@ -23,3 +23,6 @@ brew cask install skype
 
 # http://www.cockos.com/licecap
 brew cask install licecap
+
+# https://slack.com
+brew cask install slack-beta
