@@ -155,5 +155,3 @@ b
 ---
 
 **MIT Licensed**
-
-<!-- Hello -->
