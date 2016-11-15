@@ -30,7 +30,7 @@ bash /setup-osx-work-station/bootstrap.sh
 - [x] [vagrant](https://www.vagrantup.com)
 - [x] [virtualbox](https://www.virtualbox.org)
 - [x] browsers (chrome, chrome canary, firefox)
-- [x] misc (spotify, dropbox, telegram, skype, vlc, adium, etc.)
+- [x] misc (spotify, dropbox, telegram, skype, vlc, adium, caprine, etc.)
 - [x] [commonly used aliases](https://github.com/voronianski/setup-osx-work-station/blob/master/scripts/aliases.sh#L2-L13)
 
 ## Configs
