@@ -26,6 +26,8 @@ bash /setup-osx-work-station/bootstrap.sh
 - [x] [tj/git-extras](https://github.com/tj/git-extras)
 - [x] [sublime text 3](https://www.sublimetext.com/3)
 - [x] [node.js](https://nodejs.org)
+- [x] [lua](https://www.lua.org)
+- [x] [luvit](https://luvit.io) 
 - [x] [mongodb](https://www.mongodb.org)
 - [x] [vagrant](https://www.vagrantup.com)
 - [x] [virtualbox](https://www.virtualbox.org)
