@@ -1,4 +1,4 @@
-#   https://nodejs.org
+# https://nodejs.org
 brew install nodejs
 
 # https://zeit.co/now

@@ -7,6 +7,7 @@ bash ${DIR}/scripts/terminal.sh
 bash ${DIR}/scripts/editors.sh
 bash ${DIR}/scripts/git.sh
 bash ${DIR}/scripts/nodejs.sh
+bash ${DIR}/scripts/lua.sh
 bash ${DIR}/scripts/mongodb.sh
 bash ${DIR}/scripts/virtualization.sh
 bash ${DIR}/scripts/aliases.sh
