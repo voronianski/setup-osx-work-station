@@ -26,3 +26,6 @@ brew cask install licecap
 
 # https://slack.com
 brew cask install slack-beta
+
+# http://www.rarlab.com
+brew install unrar
